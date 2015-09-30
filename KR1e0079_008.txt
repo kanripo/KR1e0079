@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋明志錄
-#+DATE: 2015-09-23 09:40:14
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:15:53.727805
+#+PROPERTY: ID KR1e0079
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1e0079_WYG_008-1a>¶
 欽定四庫全書¶
 　春秋明志録卷八　　　　　明　熊過　撰¶
@@ -974,4 +976,3 @@
 　之而已陳己舉曰崔杼甞奔衛不言歸其再見何齊¶
 　納以為大夫也齊之禍靈公為之也¶
 　春秋明志録卷八¶
-
